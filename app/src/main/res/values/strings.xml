@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OCR Application</string>
+    <string name="click">Click</string>
+    <string name="extract_text">Extract Text</string>
+</resources>
